@@ -1,5 +1,9 @@
 > **Disclaimer**: This is a research project under development, see the [issue page](https://pagure.io/JShelter/webextension/issues) and the [webextension home page](https://JShelter.org/) for more details about the current status.
 
+# jshelter-sensors
+
+This is an altered version of the JShelter browser extension, which part of a master's thesis "Movement simulation of a handheld device". Related repositories can be found [here](https://github.com/stars/Haky00/lists/dp).
+
 ## What is JShelter?
 
 JShelter is a browser extension to give back control over what your browser is doing. A JavaScript-enabled web page can access much of the browser's functionality, with little control over this process available to the user: malicious websites can uniquely identify you through fingerprinting and use other tactics for tracking your activity. JShelter aims to improve the privacy and security of your web browsing.
